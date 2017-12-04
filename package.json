@@ -1,0 +1,22 @@
+{
+  "name": "convopro",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Kingdon",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "excel-as-json": "^2.0.1",
+    "express": "^4.16.2",
+    "xlsx": "^0.11.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
