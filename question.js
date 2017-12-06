@@ -597,7 +597,7 @@ let question = [
     },
     {
         "id": 150,
-        "question": "If your job gave you a surprise three day paid break to rest and recuperate, what would you do with those three days?"
+        "question": "If your job gave you a surprise three day paid break, what would you do with those three days?"
     },
     {
         "id": 151,
@@ -633,7 +633,7 @@ let question = [
     },
     {
         "id": 159,
-        "question": "If you were given a PhD degree, but had no more knowledge of the subject of the degree besides what you have now, what degree would you want to be given to you?"
+        "question": "If you were given a PhD degree for what you know now,  what degree would you want to be given to you?"
     },
     {
         "id": 160,
@@ -825,7 +825,7 @@ let question = [
     },
     {
         "id": 207,
-        "question": "In the past people were buried with the items they would need in the afterlife, what would you want buried with you so you could use it in the afterlife?"
+        "question": "In the past people were buried with the items, what would you want buried with you to use in the afterlife?"
     },
     {
         "id": 208,
