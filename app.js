@@ -39,7 +39,7 @@ let suggestions = [];
 app.post('/suggestions', function(request, response) {
   suggestions.push(request.body);
   response.json({
-    "Success! Thank you for suggesting": request.body;
+    "Success! Thank you for suggesting": request.body
   })
 });
 
